@@ -9,10 +9,15 @@ The Sample Superstore dataset is used for creating a dashboard that compares sal
 Create an interactive Tableau dashboard that visualizes the sales comparison between two selected regions based on the Sample Superstore dataset. The dashboard will include the following metrics for both regions:
 
  --> First Order Date
+ 
  --> Total Sales
+ 
  --> Average Sales per Order
+ 
  --> Number of Customers
+ 
  --> Number of Orders
+ 
  --> Number of Products in Sale
  
 ## Datasets Used
@@ -21,8 +26,11 @@ Sample Superstore Dataset
 
 ## How to Run
   --> Download the Sample Superstore dataset if not already available.
+  
   --> Open the Tableau workbook (.twb or .twbx) file.
+  
   --> Connect the dataset to Tableau.
+  
   --> Use the filters to select the Primary and Secondary regions and interact with the dashboard to compare sales performance.
   
 ## Conclusion
